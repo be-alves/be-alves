@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Olá 👋, Eu sou o Bernardo (Be Alves)!
+# Olá 👋, Meu nome é Bernardo (Be Alves)!
 
 **Desenvolvedor de Software em formação & Designer Gráfico | Estudante de Ciência da Computação (UEPB)**  
 📍 Paraíba, Brasil
