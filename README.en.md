@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi 👋, I'm Bernardo (Be Alves)!
+# Hi 👋, My name is Bernardo (Be Alves)!
 
 **Aspiring Software Developer & Graphic Designer | Computer Science Student (UEPB)**  
 📍 Paraíba, Brazil
